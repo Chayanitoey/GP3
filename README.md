@@ -1,4 +1,4 @@
-# Clustering Product on Amazon by using a review data set
+# Clustering products by using review data set
 This repository is a revision of Machine Learning repository by Chay Thawaranont as part of a project in Machine Learning Spring 2021 class for Parsons School of Design,[learn more](https://github.com/Chayanitoey/machinelearning/tree/main/final_assignment_3).
 
 ## Data 
