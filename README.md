@@ -9,9 +9,10 @@ Using [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.
 Objctive: Group the right features and number of clusters when the products in each cluster "seem" like they belong together. 
 
 
-## Clustering
-Looking from the graph ![results](https://github.com/Chayanitoey/GP3/blob/main/clusteringGraph.jpg)
-'54'is shown as the optimal k-mean since the point represents the best evaluation of the data set. 
+## Clustering with K-means: 
+
+![results](https://github.com/Chayanitoey/GP3/blob/main/clusteringGraph.jpg)
+Looking from the graph above, '54'is shown as the optimal k-mean since the point represents the best evaluation of the data set. 
 The point at '54' is the most descending one based on the range of 30 to 60 clusters and Intertia. Therefore, there will be 55. clusters in total
 
 ## Word Cloud : 
