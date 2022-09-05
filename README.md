@@ -17,7 +17,7 @@ The point at '54' is the most descending one based on the range of 30 to 60 clus
 
 ## Word Cloud : 
 
-![results](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/assignment3_1.jpg)
+![results](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC1)
 
 Generating wordcloud visualizatiion to depict all 54 clusters in a better view. The images above are the representation of the first 5 clusters and here are the first 10 example reviews from those first 5 clusters 
 ```
