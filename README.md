@@ -22,7 +22,7 @@ The point at '54' is the most descending one based on the range of 30 to 60 clus
 Generating wordcloud visualizatiion to depict all 54 clusters in a better view. 
 
 ### Describe the Clusters: 
-In order to describe what content the individual clusters stand for, having a description of the clusters will be benificial for further applications. To do this, the number of certain amount of samples, in this case, we'll be using 10 reviews per cluster. Those 10 reviews in each cluster will be used as an input for GPT3 itself to generate descriptions. I have decided to use the “davinci-instruct-beta-v3” model vom the [OpenAI API] (https://beta.openai.com) because of its expressiveness.
+In order to describe what content the individual clusters stand for, having a description of the clusters will be benificial for further applications. To do this, the number of certain amount of samples, in this case, we'll be using 10 reviews per cluster. Those 10 reviews in each cluster will be used as an input for GPT3 itself to generate descriptions. I have decided to use the “davinci-instruct-beta-v3” model vom the [OpenAI API](https://beta.openai.com) because of its expressiveness.
 
 The prompt assigned for GP3 is 'What is the product that the following reviews talk about?', from the review input, GP3 will generate topic or product that is most relevant and best respresentation of that cluster. 
 
