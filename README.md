@@ -16,8 +16,17 @@ Looking from the graph above, '54'is shown as the optimal k-mean since the point
 The point at '54' is the most descending one based on the range of 30 to 60 clusters and Intertia. Therefore, there will be 55. clusters in total
 
 ## Word Cloud : 
+Cluster 1 : 
+![wc1](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC1)
+Cluster 2 : 
+![wc2](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC2)
+Cluster 3 : 
+![wc3](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC3)
+Cluster 4 : 
+![wc4](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC4)
+Cluster 5 : 
+![wc5](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC5)
 
-![results](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC1)
 
 Generating wordcloud visualizatiion to depict all 54 clusters in a better view. The images above are the representation of the first 5 clusters and here are the first 10 example reviews from those first 5 clusters 
 ```
