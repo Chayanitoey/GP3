@@ -114,7 +114,7 @@ cluster size:  (2059, 3)
 
 ## Describe the Clusters: 
 
-In order to describe what content the individual clusters stand for, having a description of the clusters will be benificial for further applications. To do this, the number of certain amount of samples, in this case, we'll be using 10 reviews per cluster. Those 10 reviews in each cluster will be used as an input for GPT3 itself to generate descriptions. I have decided to use the “davinci-instruct-beta-v3” model vom the [OpenAI API](https://beta.openai.com) because of its expressiveness.
+In order to describe what content the individual clusters stand for, having a description of the clusters will be benificial for further applications. To do this, the number of certain amount of samples, in this case, we'll be using 10 reviews per cluster. Those 10 reviews in each cluster will be used as an input for GPT3 itself to generate descriptions. I have decided to use the “davinci-instruct-beta-v3” model from the [OpenAI API](https://beta.openai.com) because of its expressiveness.
 
 Here is the function that was used to generate the cluster description : 
 
