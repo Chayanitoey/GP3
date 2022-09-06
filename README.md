@@ -35,7 +35,7 @@ Cluster 5 :
 ![wc5](https://github.com/Chayanitoey/GP3/blob/main/wordcloud_samples/WC5)
 
 
-Generating wordcloud visualizatiion to depict all 54 clusters in a better view. The images above are the representation of the first 5 clusters and here are the first 10 example reviews from those first 5 clusters 
+Generating wordcloud visualization to depict all 54 clusters in a holistic view. The images above are the representations of the first 5 clusters and here are the first 10 example reviews from those first 5 clusters 
 ```
 --------------------------------------------------
 cluster:  1
