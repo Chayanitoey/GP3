@@ -6,7 +6,8 @@ This repository is a revision of Machine Learning repository by Chay Thawaranont
 **Data: Amazon Fine Food Reviews**. The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012. Learn more about this [data set](https://github.com/Chayanitoey/GP3/blob/main/clusteringGraph.jpg)
 
 Using [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) clustering to create a **recommendation engine.** 
-Objctive: Group the right features and number of clusters when the products in each cluster "seem" like they belong together. 
+
+**Objective:** Group the right features and number of clusters when the products in each cluster "seem" like they belong together. 
 
 
 ## Clustering with K-means: 
